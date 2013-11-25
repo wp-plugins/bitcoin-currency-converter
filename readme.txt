@@ -1,4 +1,4 @@
-=== Bitcoin Price Ticker ===
+=== Bitcoin Currency Converter ===
 
 Contributors: suicidalfish
 Tags: bitcoin, currency converter, usd, gbg, eur, mtgox
