@@ -1,4 +1,4 @@
-=== Bitcoin Currency Converter ===
+=== Bitcoin Currency Calculator ===
 
 Contributors: suicidalfish
 Tags: bitcoin, currency converter, usd, gbg, eur, mtgox
