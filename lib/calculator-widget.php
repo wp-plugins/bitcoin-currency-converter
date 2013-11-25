@@ -97,7 +97,7 @@
 			
 			function convert ()
 			{
-				var url = '<?php echo bloginfo('wpurl'); ?>' + '/wp-content/plugins/bitcoin-calculator/lib/exchange/exchange.php';
+				var url = '<?php echo bloginfo('wpurl'); ?>' + '/wp-content/plugins/bitcoin-currency-calculator/lib/exchange/exchange.php';
 								
 				var a = j('#ammount-to-convert').val();
 				var c = j('#calculator_dropdown_currency').val();
