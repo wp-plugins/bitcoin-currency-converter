@@ -41,15 +41,15 @@
 				curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, false);
 				curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
 		
-				$c = curl_exec($curl);
+				$result = curl_exec($curl);
 				curl_close($curl);
 			}
 			
-			$c = json_decode($c);
+			$json = json_decode($result);
 					
-			$price = $c->ticker->sell * $a;
+			$price = $json->ticker->sell * $a;
 								 
-			echo  $a . "BTC = " . $sym.$c;
+			echo  $a . "BTC = " . $sym.$price;
 				
 			
 		} catch (Exception $e) {
