@@ -27,7 +27,7 @@
 			
 		}
 		
-		$url = "https://btc-e.com/api/2/btc_usd/ticker";
+		$url = "https://btc-e.com/api/2/btc_". strtolower($c) ."/ticker";
 		
 		try {
 			
