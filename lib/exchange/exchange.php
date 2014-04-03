@@ -27,7 +27,7 @@
 			
 		}
 		
-		$url = 'http://btcrate.com/convert?from=btc&to='. $c .'&exch=mtgox&conv=xe&amount='.$a;
+		$url = "https://btc-e.com/api/2/btc_usd/ticker";
 		
 		try {
 			
@@ -46,8 +46,8 @@
 			}
 			
 			$c = json_decode($c);
-		
-			$c = round($c->converted);
+					
+			$price = $c->ticker->sell * $a;
 								 
 			echo  $a . "BTC = " . $sym.$c;
 				
