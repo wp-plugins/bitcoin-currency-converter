@@ -53,12 +53,7 @@
 			
 			<div class="bitcoin-curreny-calculator-footer">
                 <div class="bitcoin-curreny-calculator-link">
-                    <a href="http://wordpress.org/plugins/bitcoin-exchange-rate-ticker/screenshots/">
-                        &#8250; Get the Bitcoin Calculator
-                    </a>
-                </div>
-                <div class="bitcoin-curreny-calculator-bitcoin-address">
-                    1JokP92X916fbvdT9pVdegqrt7c8hCFXJ4
+                    Powered by <a href="https://cakebet.com">CakeBet</a>
                 </div>
         	</div>
 			
