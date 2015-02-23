@@ -53,7 +53,7 @@
 			
 			<div class="bitcoin-curreny-calculator-footer">
                 <div class="bitcoin-curreny-calculator-link">
-                    Powered by <a href="https://www.rjmacarthy.com">rjmacarthy</a>
+                    Powered by <a href="http://www.rjmacarthy.com">rjmacarthy</a>
                 </div>
         	</div>
 			
