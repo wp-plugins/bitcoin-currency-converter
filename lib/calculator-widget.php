@@ -15,7 +15,7 @@
 			</div>
 			
 			<div class="sub-heading">
-				Ammount of BTC to convert
+				Amount of BTC to convert
 			</div>
 			
 			<div id="bitcoin-calculator-ammount">
@@ -53,7 +53,7 @@
 			
 			<div class="bitcoin-curreny-calculator-footer">
                 <div class="bitcoin-curreny-calculator-link">
-                    Powered by <a href="https://cakebet.com">CakeBet</a>
+                    Powered by <a href="https://www.rjmacarthy.com">rjmacarthy</a>
                 </div>
         	</div>
 			
